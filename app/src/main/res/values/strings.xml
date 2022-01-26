@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">daliyMemo</string>
+    <string name="api_url">https://openapi.naver.com/v1/search/blog.xml?query=</string>
+    <string name="client_id">u993xDbwLQX0gbkcnXa5</string>
+    <string name="client_secret">A8_eVj3Jsw</string>
+    <string name="api_key">AIzaSyALr-eU1BAAbDDqy1p6O5OoaHOh2V2fNaQ</string>
+    <string name="init_lat">37.57412727019096</string>
+    <string name="init_lng">126.9771556318172</string>
+    <string name="please_grant_permission">권한을 허용해주세요.</string>
+</resources>
